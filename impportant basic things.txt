@@ -1,0 +1,26 @@
+css- Cascading style sheets.
+need to colure the web site . 
+Some important thigs :
+1.(selector) P {colour: green} (decleration)
+class (*) ,id(#),element,universal,attribute ba sector.
+2.majr unit need from w3school . m******
+3.specific korte : 1 ta te kisu change kora jabe.:
+#short { color}.
+4.puro class niye kaj korle age 9.class) dite hobe (.)
+5.pixel baranu komanu:#fifth{front-size:26px;
+6.attribuate:
+7.Box depend on:margin,text-algin,border,padding . css box model.
+8.link korte gele: link tag (<title>external css</title>
+    <link rel="stylesheet" href="style.css/">)
+9.display:none; (kisu hide korar jonno )
+1.visibality:hidden(akdom jaiga soho remov kore dibe)
+11.box shaddo: box-shadow:10px 10px 20px;
+12.front family : use korle front change hoye jai(font-family: 'couirer New';
+13.border dile box er moto hobe .border:1px solid red;
+14** 2 TA FILE ADD KORA : (Index.css ) file name
+h2{
+background-color:green;
+}
+link :
+<head>
+<link rel="stylesheet"href="style.css></head>
